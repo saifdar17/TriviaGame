@@ -1,0 +1,21 @@
+body {
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.jumbotron {
+	text-align: center;
+	height: 100%;
+
+}
+
+.answer {
+	background-color: #99ffcc;
+	border: solid #ccccb3 2px;
+	visibility: hidden;
+}
+
+#reset {
+	visibility: hidden;
+}
